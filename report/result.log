@@ -1,0 +1,629 @@
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:57:49,667 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:57:49,932 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:57:49,948 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:57:54,572 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:57:55,581 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:57:55,585 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:57:55,586 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:57:55,586 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:48,567 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:48,832 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:48,848 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:53,151 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:54,244 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:54,250 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:54,255 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:54,255 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:54,268 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 14:59:55,143 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/26_03_2017_02_59_48.html 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:13,715 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:13,964 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:13,964 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:18,261 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:19,255 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:19,258 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:19,263 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:19,263 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:19,270 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:20,134 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/26_03_2017_03_05_13.html 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:40,851 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:41,023 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:41,054 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:45,284 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:45,504 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:45,504 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:45,521 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:45,522 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:46,605 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:05:47,327 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/26_03_2017_03_05_40.html 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:13:39,128 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:13:39,759 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:13:39,790 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:13:51,931 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:13:55,056 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:13:55,068 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:13:55,073 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:13:55,076 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:26,569 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:27,038 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:27,085 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:36,810 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:43,405 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:43,426 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:43,437 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:43,440 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:46,650 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 15:14:49,863 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/26_03_2017_03_14_26.html 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:22,195 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:22,601 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:22,632 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:34,100 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:40,193 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:40,207 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:40,212 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:40,213 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:42,288 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:16:44,987 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:02,131 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:03,576 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:03,606 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:03,647 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:03,648 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:09,458 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:12,777 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/26_03_2017_04_16_22.html 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:41,563 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:42,001 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:42,094 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:42,094 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:53,938 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:17:59,095 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:00,616 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:00,630 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:00,709 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:00,710 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:02,545 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:02,571 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:02,595 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:02,596 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:06,592 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:06,981 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-03-26 16:18:09,544 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/26_03_2017_04_17_41.html 
+com.hrm.scripts.Login 2017-03-26 18:03:37,700 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.Login 2017-03-26 18:03:38,216 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.Login 2017-03-26 18:03:38,247 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.Login 2017-03-26 18:04:27,217 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.Login 2017-03-26 18:04:27,733 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.Login 2017-03-26 18:04:27,764 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.Login 2017-03-26 18:04:39,631 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:loginapp 
+com.hrm.scripts.Login 2017-03-26 18:04:39,679 com.hrm.scripts.Login.loginapp(Login.java:18) landing page is login page 
+com.hrm.scripts.Login 2017-03-26 18:04:39,687 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.Login 2017-03-26 18:04:39,695 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.Login 2017-03-26 18:04:43,143 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/26_03_2017_06_04_27.html 
+generics.TestSearchButton 2017-04-01 17:25:46,946 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+generics.TestSearchButton 2017-04-01 17:25:47,586 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+generics.TestSearchButton 2017-04-01 17:25:47,602 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+generics.TestSearchButton 2017-04-01 17:25:58,447 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+generics.TestSearchButton 2017-04-01 17:26:04,202 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testSearchButton 
+com.hrm.pages.EmployeeInformationPage 2017-04-01 17:26:10,110 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+generics.TestSearchButton 2017-04-01 17:26:10,118 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+generics.TestSearchButton 2017-04-01 17:26:10,118 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+generics.TestSearchButton 2017-04-01 17:26:12,384 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+generics.TestSearchButton 2017-04-01 17:26:23,454 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/01_04_2017_05_25_46.html 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:32:28,698 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:32:29,510 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:32:29,542 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:33:24,583 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:33:25,271 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:33:25,318 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:34:07,777 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:34:08,543 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:34:08,574 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:34:21,190 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLoginButtonIsPresent 
+com.hrm.pages.LoginPage 2017-04-01 18:34:21,555 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:34:21,561 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:34:21,568 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:34:31,235 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/01_04_2017_06_34_07.html 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:42:47,761 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:42:48,729 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:42:48,807 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:43:04,988 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLoginButtonIsPresent 
+com.hrm.pages.LoginPage 2017-04-01 18:43:05,542 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:43:05,542 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:43:05,558 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginButtonCheck 2017-04-01 18:43:17,696 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/01_04_2017_06_42_47.html 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:00:39,778 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:00:40,685 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:00:40,732 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:01:11,359 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:01:11,963 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:01:11,993 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:01:56,297 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:01:57,192 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:01:57,244 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:02:54,332 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:02:54,953 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:02:54,976 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:03:54,871 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:03:56,431 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:03:56,555 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:07:12,993 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:07:13,717 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:07:13,762 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:07:34,247 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:07:44,731 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:07:54,744 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:07:54,744 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:07:57,000 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:08:08,064 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/02_04_2017_04_07_13.html 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:10:07,950 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:10:08,589 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:10:08,619 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:11:55,126 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:11:55,949 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:11:55,999 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:12:11,142 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:12:18,871 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 16:12:32,601 com.hrm.pages.PersonalDeatailsPage.checkFirstName(PersonalDeatailsPage.java:30) first name is successfully verifed 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 16:12:32,778 com.hrm.pages.PersonalDeatailsPage.checklastName(PersonalDeatailsPage.java:37) last name is successfully verifed 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:12:32,963 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:12:32,963 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:12:35,364 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 16:12:43,964 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/02_04_2017_04_11_55.html 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:05:20,053 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:05:20,553 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:05:20,573 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:07:30,243 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:07:31,124 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:07:31,174 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:09:27,967 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:09:28,801 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:09:28,853 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:09:54,971 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:09:55,834 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:09:55,874 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:10:16,334 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:10:27,048 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 17:10:42,247 com.hrm.pages.PersonalDeatailsPage.checkFirstName(PersonalDeatailsPage.java:30) first name is successfully verifed 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 17:10:42,437 com.hrm.pages.PersonalDeatailsPage.checklastName(PersonalDeatailsPage.java:37) last name is successfully verifed 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:10:45,812 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:10:45,812 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:10:48,369 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:11:03,462 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/02_04_2017_05_09_55.html 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:11:55,337 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:11:56,486 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:11:56,527 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:38:02,643 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:38:03,248 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:38:03,278 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:38:38,038 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:38:38,810 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:38:38,850 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:38:54,573 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:39:04,480 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 17:39:21,638 com.hrm.pages.PersonalDeatailsPage.checkFirstName(PersonalDeatailsPage.java:30) first name is successfully verifed 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 17:39:21,884 com.hrm.pages.PersonalDeatailsPage.checklastName(PersonalDeatailsPage.java:37) last name is successfully verifed 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:39:45,953 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:39:45,953 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:39:49,133 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:39:56,248 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/02_04_2017_05_38_38.html 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:42:57,694 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:42:58,331 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:42:58,373 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:43:14,381 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:43:21,866 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 17:43:34,936 com.hrm.pages.PersonalDeatailsPage.checkFirstName(PersonalDeatailsPage.java:30) first name is successfully verifed 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 17:43:35,083 com.hrm.pages.PersonalDeatailsPage.checklastName(PersonalDeatailsPage.java:37) last name is successfully verifed 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:43:45,823 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:43:45,823 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:43:48,281 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:44:01,465 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/02_04_2017_05_42_57.html 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:46:00,939 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:46:01,542 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:46:01,582 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:46:15,005 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:46:21,922 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 17:46:33,904 com.hrm.pages.PersonalDeatailsPage.checkFirstName(PersonalDeatailsPage.java:30) first name is successfully verifed 
+com.hrm.pages.PersonalDeatailsPage 2017-04-02 17:46:34,040 com.hrm.pages.PersonalDeatailsPage.checklastName(PersonalDeatailsPage.java:37) last name is successfully verifed 
+com.hrm.pages.EmployeeInformationPage 2017-04-02 17:47:00,326 com.hrm.base.BasePage.checkElementIsNotPresent(BasePage.java:59) PASS: Element is Not present 
+com.hrm.pages.EmployeeInformationPage 2017-04-02 17:47:00,327 com.hrm.pages.EmployeeInformationPage.checkEmpisdeleted(EmployeeInformationPage.java:43) pass : Emp: 0007 is deleted 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:47:00,334 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:47:00,335 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:47:04,091 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-02 17:47:15,029 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/02_04_2017_05_46_00.html 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:45:18,631 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:45:19,396 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:45:19,452 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:45:32,601 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:45:43,025 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testIncludeListBox 
+com.hrm.pages.EmployeeInformationPage 2017-04-02 18:45:48,114 com.hrm.base.BasePage.checkListBoxHasNoDuplicate(BasePage.java:36) PASS:ListBox has no duplicate 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:45:49,321 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:45:49,321 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:45:51,394 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestIncludeListBox 2017-04-02 18:46:04,469 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/02_04_2017_06_45_18.html 
+com.hrm.scripts.Login 2017-04-09 12:00:11,938 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.Login 2017-04-09 12:00:12,777 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.Login 2017-04-09 12:00:12,802 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.Login 2017-04-09 12:01:16,881 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.Login 2017-04-09 12:01:51,628 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:loginapp 
+com.hrm.scripts.Login 2017-04-09 12:01:51,630 com.hrm.scripts.Login.loginapp(Login.java:18) landing page is login page 
+com.hrm.scripts.Login 2017-04-09 12:01:51,637 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.Login 2017-04-09 12:01:51,641 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:01:54,698 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:02:18,475 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:02:24,300 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:02:24,310 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:02:24,316 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:02:24,317 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:02:37,312 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:02:40,989 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:02:55,544 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:02:57,321 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testSearchButton 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:03:06,330 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:03:06,371 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:03:06,373 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:03:07,891 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:03:11,308 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:03:20,360 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLoginButtonIsPresent 
+com.hrm.pages.LoginPage 2017-04-09 12:03:20,603 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:03:20,605 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:03:20,607 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:03:22,464 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:03:37,486 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:03:39,258 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:03:46,786 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:03:46,786 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:03:47,057 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:03:48,888 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:04:04,701 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:04:06,261 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testIncludeListBox 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:04:12,238 com.hrm.base.BasePage.checkListBoxHasNoDuplicate(BasePage.java:36) PASS:ListBox has no duplicate 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:04:13,187 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:04:13,187 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:04:13,396 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.Login 2017-04-09 12:04:15,284 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_12_00_12.html 
+com.hrm.scripts.Login 2017-04-09 12:10:25,704 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.Login 2017-04-09 12:10:26,018 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.Login 2017-04-09 12:10:26,037 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.Login 2017-04-09 12:10:34,946 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:loginapp 
+com.hrm.scripts.Login 2017-04-09 12:10:34,956 com.hrm.scripts.Login.loginapp(Login.java:18) landing page is login page 
+com.hrm.scripts.Login 2017-04-09 12:10:34,963 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.Login 2017-04-09 12:10:34,971 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:10:36,612 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:10:45,790 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:10:51,058 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:10:51,062 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:10:51,064 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:10:51,064 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:10:52,478 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:10:53,868 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:11:02,257 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:11:08,474 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testSearchButton 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:11:12,392 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:11:12,396 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:11:12,397 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:11:13,846 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:11:15,938 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:11:23,136 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLoginButtonIsPresent 
+com.hrm.pages.LoginPage 2017-04-09 12:11:23,482 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:11:23,486 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:11:23,486 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:11:25,652 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:11:32,860 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:11:38,565 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.pages.PersonalDeatailsPage 2017-04-09 12:11:49,560 com.hrm.pages.PersonalDeatailsPage.checkFirstName(PersonalDeatailsPage.java:30) first name is successfully verifed 
+com.hrm.pages.PersonalDeatailsPage 2017-04-09 12:11:49,954 com.hrm.pages.PersonalDeatailsPage.checklastName(PersonalDeatailsPage.java:37) last name is successfully verifed 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:12:17,010 com.hrm.base.BasePage.checkElementIsNotPresent(BasePage.java:59) PASS: Element is Not present 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:12:17,010 com.hrm.pages.EmployeeInformationPage.checkEmpisdeleted(EmployeeInformationPage.java:52) pass : Emp: 0008 is deleted 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:12:17,040 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:12:17,041 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:12:18,652 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:12:20,436 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:12:27,293 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:12:30,598 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testIncludeListBox 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:12:33,528 com.hrm.base.BasePage.checkListBoxHasNoDuplicate(BasePage.java:36) PASS:ListBox has no duplicate 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:12:34,333 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:12:34,333 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:12:35,435 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.Login 2017-04-09 12:12:37,397 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.Login 2017-04-09 12:12:51,595 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:loginapp 
+com.hrm.scripts.Login 2017-04-09 12:12:51,606 com.hrm.scripts.Login.loginapp(Login.java:18) landing page is login page 
+com.hrm.scripts.Login 2017-04-09 12:12:51,659 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.Login 2017-04-09 12:12:51,660 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:12:53,689 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:13:08,736 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:13:09,745 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testAutoLoginLogout1 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:13:09,754 com.hrm.scripts.LoginLogoutTest.testAutoLoginLogout1(LoginLogoutTest.java:10) This script will automatically login and logout1 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:13:09,764 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:13:09,764 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.LoginLogoutTest 2017-04-09 12:13:14,691 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:13:17,075 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:13:31,252 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:13:32,415 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testSearchButton 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:13:38,844 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:13:38,846 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:13:38,847 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:13:39,013 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:13:41,036 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:13:56,912 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLoginButtonIsPresent 
+com.hrm.pages.LoginPage 2017-04-09 12:13:57,426 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:13:57,429 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.LoginButtonCheck 2017-04-09 12:13:57,430 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:14:00,261 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:14:15,336 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:14:16,983 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testCreateDeleteEmp 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:14:21,906 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:14:21,906 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestCreateDeleteEmp 2017-04-09 12:14:22,201 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:14:24,310 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:firefox 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:14:35,966 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:14:37,523 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testIncludeListBox 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:14:43,612 com.hrm.base.BasePage.checkListBoxHasNoDuplicate(BasePage.java:36) PASS:ListBox has no duplicate 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:14:45,212 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:14:45,213 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestIncludeListBox 2017-04-09 12:14:45,746 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.Login 2017-04-09 12:14:48,560 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_12_10_25.html 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:35,916 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:36,686 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:36,774 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:49,082 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:53,369 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testSearchButton 
+com.hrm.pages.EmployeeInformationPage 2017-04-09 12:46:55,379 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:55,396 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:55,396 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:56,203 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestSearchButton 2017-04-09 12:46:57,613 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_12_46_35.html 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:20:41,053 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:20:41,717 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:20:41,757 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:20:46,744 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:20:47,411 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:20:47,441 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:04,441 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:06,567 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testJobTitle 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:18,137 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:18,137 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:20,414 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:23,681 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_20_46.html 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:48,700 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:49,040 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:21:49,050 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:15,649 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:16,091 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:16,111 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:26,011 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:31,321 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testJobTitle 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:33,705 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:33,705 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:35,715 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:38,052 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_22_15.html 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:52,873 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:53,261 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:22:53,281 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:23:02,330 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:23:08,282 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testJobTitle 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:23:12,455 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:23:12,465 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:23:13,634 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:23:16,053 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_22_52.html 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:22,717 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:23,115 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:23,145 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:32,380 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:38,931 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testJobTitle 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:45,331 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:45,331 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:46,839 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:27:49,259 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_27_22.html 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:31,458 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:31,763 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:31,783 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:40,950 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:46,862 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testJobTitle 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:51,738 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:51,738 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:53,356 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:30:55,623 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_30_31.html 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:03,138 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:03,650 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:03,680 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:12,661 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:19,065 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testJobTitle 
+com.hrm.pages.JobTitlePage 2017-04-09 16:31:30,010 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:47) PASS: Element is present 
+com.hrm.pages.JobTitlePage 2017-04-09 16:31:54,051 com.hrm.base.BasePage.checkElementIsNotPresent(BasePage.java:59) PASS: Element is Not present 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:54,063 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:54,063 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:56,696 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestJobTitle 2017-04-09 16:31:59,107 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_31_03.html 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:52:43,429 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:52:43,903 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:52:43,933 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:52:52,790 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:52:59,519 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testUserRoleListBox 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:04,364 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:04,364 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:06,836 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:20,169 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_52_43.html 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:26,103 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:26,525 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:26,565 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:35,359 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:41,805 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testUserRoleListBox 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:46,264 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:46,266 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:48,343 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:53:51,016 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_53_26.html 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:03,954 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:04,528 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:04,561 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:15,259 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:19,542 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testUserRoleListBox 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:23,498 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:23,498 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:24,634 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:26,130 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_54_03.html 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:50,873 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:51,223 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:51,243 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:54:59,214 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:55:04,202 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testUserRoleListBox 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:55:07,422 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:55:07,424 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:55:08,463 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:55:10,710 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_54_50.html 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:55:26,248 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:55:26,653 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:55:26,693 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:56:57,500 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:56:57,940 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:56:57,950 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:57:06,893 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:57:13,477 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testUserRoleListBox 
+com.hrm.pages.SystemUserpage 2017-04-09 16:57:19,891 com.hrm.base.BasePage.checkListBoxIsSorted(BasePage.java:29) PASS:ListBox is Sorted 
+com.hrm.pages.SystemUserpage 2017-04-09 16:57:19,891 com.hrm.pages.SystemUserpage.checkUserRoleListBoxIsSorted(SystemUserpage.java:24) PASS: User Role ListBox is Sorted 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:57:19,904 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:57:19,904 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:57:21,718 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 16:57:24,321 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_04_56_57.html 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:34,433 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:34,652 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:34,673 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:40,846 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:43,376 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testUserRoleListBox 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:45,682 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:45,682 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:46,460 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:47,750 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_05_11_34.html 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:54,774 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:54,984 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:11:54,990 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:12:00,687 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:12:03,204 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testUserRoleListBox 
+com.hrm.pages.SystemUserpage 2017-04-09 17:12:05,752 com.hrm.base.BasePage.checkListBoxIsSorted(BasePage.java:29) PASS:ListBox is Sorted 
+com.hrm.pages.SystemUserpage 2017-04-09 17:12:05,752 com.hrm.pages.SystemUserpage.checkUserRoleListBoxIsSorted(SystemUserpage.java:24) PASS: User Role ListBox is Sorted 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:12:05,762 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:12:05,762 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:12:06,624 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestUserRoleListBox 2017-04-09 17:12:07,873 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_05_11_54.html 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:14,413 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:14,805 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:14,825 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:33,520 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:34,041 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:34,081 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:43,810 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:51,078 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:54,986 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:54,987 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeave 2017-04-09 17:48:57,911 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestLeave 2017-04-09 17:49:00,454 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_05_48_33.html 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:02:36,041 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:02:36,521 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:02:36,541 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:02:45,839 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:02:50,540 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:02:52,387 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:02:52,387 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:03:19,604 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:03:20,038 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:03:20,068 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:05,986 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:06,506 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:06,525 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:22,698 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:23,155 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:23,187 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:32,882 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:40,073 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.pages.LeaveListPage 2017-04-09 18:04:44,396 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.pages.LeaveListPage 2017-04-09 18:04:44,396 com.hrm.pages.LeaveListPage.checkhideOptionsToolTipIsDisplayed(LeaveListPage.java:32) Hide Options tool tip is displayed 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:44,406 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:44,406 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:45,868 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:04:48,253 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_06_04_22.html 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:05:49,586 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:05:50,021 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:05:50,042 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:05,913 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:06,493 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:06,562 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:21,681 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:22,226 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:22,278 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:33,645 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:40,581 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.pages.LeaveListPage 2017-04-09 18:06:45,710 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.pages.LeaveListPage 2017-04-09 18:06:45,710 com.hrm.pages.LeaveListPage.checkhideOptionsToolTipIsDisplayed(LeaveListPage.java:32) Hide Options tool tip is displayed 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:45,720 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:45,720 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:47,574 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:06:50,259 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_06_06_21.html 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:23:35,182 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:23:35,629 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:23:35,649 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:23:46,123 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:23:53,338 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:24:19,122 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:24:19,122 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:24:20,853 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:24:23,410 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_06_23_35.html 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:25:09,172 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:25:09,734 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:25:09,784 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:25:19,821 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:25:25,224 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.pages.LeaveListPage 2017-04-09 18:25:29,916 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.pages.LeaveListPage 2017-04-09 18:25:29,916 com.hrm.pages.LeaveListPage.checkhideOptionsToolTipIsDisplayed(LeaveListPage.java:35) Hide Options tool tip is displayed 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:26:12,101 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:26:12,102 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:26:13,958 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:26:16,698 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_06_25_09.html 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:30:59,694 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:31:00,221 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:31:00,271 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:31:23,016 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:31:23,579 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:31:23,608 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:31:44,340 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:31:44,812 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:31:44,842 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:11,295 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:11,782 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:11,817 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:22,346 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:29,759 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.pages.LeaveListPage 2017-04-09 18:32:33,805 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.pages.LeaveListPage 2017-04-09 18:32:33,805 com.hrm.pages.LeaveListPage.checkhideOptionsToolTipIsDisplayed(LeaveListPage.java:43) Hide Options tool tip is displayed 
+com.hrm.pages.LeaveListPage 2017-04-09 18:32:48,397 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.pages.LeaveListPage 2017-04-09 18:32:48,397 com.hrm.pages.LeaveListPage.checkExpandforOptionsToolTipIsDisplayed(LeaveListPage.java:55) Expand for Options tool tip is displayed 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:48,780 com.hrm.base.BaseTest.postCondition(BaseTest.java:125) Test is PASSED 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:48,781 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:50,890 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:32:53,538 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_06_32_11.html 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:35:06,754 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:35:07,220 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:35:07,249 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:35:17,417 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:35:23,659 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.pages.LeaveListPage 2017-04-09 18:35:28,809 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.pages.LeaveListPage 2017-04-09 18:35:28,810 com.hrm.pages.LeaveListPage.checkhideOptionsToolTipIsDisplayed(LeaveListPage.java:43) Hide Options tool tip is displayed 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:36:11,864 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:36:11,864 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:36:13,780 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:36:15,841 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_06_35_06.html 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:40:04,679 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:40:05,227 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:40:05,285 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:40:25,115 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:40:25,653 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:40:25,694 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:40:35,784 com.hrm.base.BaseTest.preCondition(BaseTest.java:106) Auto login 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:40:42,525 com.hrm.base.BaseTest.preCondition(BaseTest.java:110) Started executing test:testLeave 
+com.hrm.pages.LeaveListPage 2017-04-09 18:40:46,772 com.hrm.base.BasePage.checkElementIsPresent(BasePage.java:42) PASS:Element is present 
+com.hrm.pages.LeaveListPage 2017-04-09 18:40:46,772 com.hrm.pages.LeaveListPage.checkhideOptionsToolTipIsDisplayed(LeaveListPage.java:43) Hide Options tool tip is displayed 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:41:28,872 com.hrm.base.BaseTest.postCondition(BaseTest.java:120) Test is FAILED 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:41:28,872 com.hrm.base.BaseTest.postCondition(BaseTest.java:128) Auto logout 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:41:31,026 com.hrm.base.BaseTest.closeApplication(BaseTest.java:98) Closing Browser 
+com.hrm.scripts.TestLeaveListToolTip 2017-04-09 18:41:34,027 com.hrm.base.BaseTest.publishReport(BaseTest.java:72) Publishing ExtentReport:./report/09_04_2017_06_40_25.html 
+com.hrm.scripts.Login 2020-02-17 15:32:39,199 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:55) Initializing ExtentReport 
+com.hrm.scripts.Login 2020-02-17 15:32:40,148 com.hrm.base.BaseTest.initFrameWork(BaseTest.java:60) Initialize Global Variables 
+com.hrm.scripts.Login 2020-02-17 15:32:40,233 com.hrm.base.BaseTest.initApplication(BaseTest.java:85) Opening Browser:chrome 

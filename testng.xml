@@ -1,0 +1,15 @@
+<suite name="OrangeSuite" parallel="none">
+  <test name="TestOnChrome">
+  <parameter name="browser" value="chrome"/>
+  <packages>
+      <package name="com.hrm.scripts"/>
+   </packages>
+  </test>
+  
+  <test name="TestOnFF">
+  <parameter name="browser" value="firefox"/>
+  <packages>
+      <package name="com.hrm.scripts"/>
+   </packages>
+  </test>
+</suite>

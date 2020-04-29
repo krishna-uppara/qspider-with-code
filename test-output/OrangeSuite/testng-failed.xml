@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeSuite]">
+  <test name="TestOnChrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.hrm.scripts.TestIncludeListBox">
+        <methods>
+          <include name="testIncludeListBox"/>
+          <include name="initFrameWork"/>
+          <include name="postCondition"/>
+          <include name="initApplication"/>
+          <include name="closeApplication"/>
+          <include name="publishReport"/>
+          <include name="preCondition"/>
+          <include name="initGlobalVar"/>
+        </methods>
+      </class> <!-- com.hrm.scripts.TestIncludeListBox -->
+    </classes>
+  </test> <!-- TestOnChrome(failed) -->
+  <test name="TestOnFF(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.hrm.scripts.TestCreateDeleteEmp">
+        <methods>
+          <include name="initFrameWork"/>
+          <include name="postCondition"/>
+          <include name="initApplication"/>
+          <include name="closeApplication"/>
+          <include name="publishReport"/>
+          <include name="testCreateDeleteEmp"/>
+          <include name="preCondition"/>
+          <include name="initGlobalVar"/>
+        </methods>
+      </class> <!-- com.hrm.scripts.TestCreateDeleteEmp -->
+      <class name="com.hrm.scripts.TestIncludeListBox">
+        <methods>
+          <include name="testIncludeListBox"/>
+          <include name="initFrameWork"/>
+          <include name="postCondition"/>
+          <include name="initApplication"/>
+          <include name="closeApplication"/>
+          <include name="publishReport"/>
+          <include name="preCondition"/>
+          <include name="initGlobalVar"/>
+        </methods>
+      </class> <!-- com.hrm.scripts.TestIncludeListBox -->
+    </classes>
+  </test> <!-- TestOnFF(failed) -->
+</suite> <!-- Failed suite [OrangeSuite] -->
